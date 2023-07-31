@@ -7,10 +7,10 @@ This should also work on images of tea leaves, but I haven't tested it.
 ## Usage
 
 ~~~python
-    python -m venv venv
-    .venv\Scripts\activate
-    pip install -r requirements.txt
-    .divine.py path/to/your/image
+python -m venv venv
+.venv\Scripts\activate
+pip install -r requirements.txt
+.divine.py path/to/your/image
 ~~~
 
 ### given
@@ -19,6 +19,5 @@ This should also work on images of tea leaves, but I haven't tested it.
  
 ### returns
 
-['DXCM', 'TSN', 'UPS', 'WEC']
-
+['GRMN', 'K', 'NEE', 'DGX']
 
